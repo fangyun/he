@@ -7,16 +7,21 @@ We should participate in the large environment of the national economic developm
 
 2 Circular Economy
 -------------------
-[Special topic for circular economy](http://www.china.com.cn/chinese/zhuanti/xhjj/754470.htm):
-	1. [What is circular economy?](http://www.china.com.cn/chinese/zhuanti/xhjj/760331.htm)
-		+ Essence?
-		+ Differences from traditional economy?
-			- Model
-			- Feature
-			- Procedure
-		+ Paradigm transition & digestion contradiction
-		+ Operating principles
-			- Reduce
-			- Reuse
-			- Recycle
-	2. 
+
+### 2.1 [Special topic for circular economy](http://www.china.com.cn/chinese/zhuanti/xhjj/754470.htm)
+
+1. [What is circular economy?](http://www.china.com.cn/chinese/zhuanti/xhjj/760331.htm)
+	+ Essence?
+	+ Differences from traditional economy?
+  		- Model
+  		- Feature
+  		- Procedure
+  	+ Paradigm transition & digestion contradiction
+  	+ Operating principles
+  		- Reduce
+  		- Reuse
+  		- Recycle 
+2. [Origin and development of circular economy](http://www.china.com.cn/chinese/zhuanti/xhjj/760330.htm)
+	+ Origin
+		- "Silence Spring"
+		- "" Kenneth Boulding
